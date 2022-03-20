@@ -1,0 +1,3 @@
+function findAverage(K, arr){
+    
+}
