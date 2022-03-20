@@ -1,3 +1,0 @@
-function findAverage(K, arr){
-    
-}
